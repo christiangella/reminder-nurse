@@ -2,7 +2,7 @@
 
 > 70% of Americans regularly take prescription drugs, with more than half with at least two prescriptions. Taking the right drug at the correct time is difficult without a plan and daily reminders.
 >
-> **Reminder Nurse** is a cross-platform application built using the MERN stack, aimed at helping users stay on track with their medication dosages through notifications.
+> **Reminder Nurse** is a cross-platform application built using the MERN stack, aimed at helping users stay on track with their medication dosages through notifications. The deployed application can be accessed by [clicking here](https://infinite-tundra-63633.herokuapp.com/).
 
 ![A preview of the deployed application, Reminder Nurse.](assets/images/rn_screenshot_01.png)
 
